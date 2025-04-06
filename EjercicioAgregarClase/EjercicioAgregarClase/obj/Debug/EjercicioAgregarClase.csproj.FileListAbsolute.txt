@@ -1,0 +1,7 @@
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioAgregarClase\EjercicioAgregarClase\bin\Debug\EjercicioAgregarClase.exe.config
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioAgregarClase\EjercicioAgregarClase\bin\Debug\EjercicioAgregarClase.exe
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioAgregarClase\EjercicioAgregarClase\bin\Debug\EjercicioAgregarClase.pdb
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioAgregarClase\EjercicioAgregarClase\obj\Debug\EjercicioAgregarClase.csproj.AssemblyReference.cache
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioAgregarClase\EjercicioAgregarClase\obj\Debug\EjercicioAgregarClase.csproj.CoreCompileInputs.cache
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioAgregarClase\EjercicioAgregarClase\obj\Debug\EjercicioAgregarClase.exe
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\1. Semana 1\Ejercicios_Semana_1\EjercicioAgregarClase\EjercicioAgregarClase\obj\Debug\EjercicioAgregarClase.pdb
