@@ -1,0 +1,7 @@
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\SuperHeroe\SuperHeroe\bin\Debug\SuperHeroe.exe.config
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\SuperHeroe\SuperHeroe\bin\Debug\SuperHeroe.exe
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\SuperHeroe\SuperHeroe\bin\Debug\SuperHeroe.pdb
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\SuperHeroe\SuperHeroe\obj\Debug\SuperHeroe.csproj.AssemblyReference.cache
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\SuperHeroe\SuperHeroe\obj\Debug\SuperHeroe.csproj.CoreCompileInputs.cache
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\SuperHeroe\SuperHeroe\obj\Debug\SuperHeroe.exe
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\2. Semana 2 - Haciendo Foco\SuperHeroe\SuperHeroe\obj\Debug\SuperHeroe.pdb
