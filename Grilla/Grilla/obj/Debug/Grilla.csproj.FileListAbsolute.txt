@@ -1,0 +1,10 @@
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\4. Semana 4 - Pilares de la POO (parte 1)\Grilla\Grilla\bin\Debug\Grilla.exe.config
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\4. Semana 4 - Pilares de la POO (parte 1)\Grilla\Grilla\bin\Debug\Grilla.exe
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\4. Semana 4 - Pilares de la POO (parte 1)\Grilla\Grilla\bin\Debug\Grilla.pdb
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\4. Semana 4 - Pilares de la POO (parte 1)\Grilla\Grilla\obj\Debug\Grilla.csproj.AssemblyReference.cache
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\4. Semana 4 - Pilares de la POO (parte 1)\Grilla\Grilla\obj\Debug\Grilla.frmGrilla.resources
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\4. Semana 4 - Pilares de la POO (parte 1)\Grilla\Grilla\obj\Debug\Grilla.Properties.Resources.resources
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\4. Semana 4 - Pilares de la POO (parte 1)\Grilla\Grilla\obj\Debug\Grilla.csproj.GenerateResource.cache
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\4. Semana 4 - Pilares de la POO (parte 1)\Grilla\Grilla\obj\Debug\Grilla.csproj.CoreCompileInputs.cache
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\4. Semana 4 - Pilares de la POO (parte 1)\Grilla\Grilla\obj\Debug\Grilla.exe
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\4. Semana 4 - Pilares de la POO (parte 1)\Grilla\Grilla\obj\Debug\Grilla.pdb
