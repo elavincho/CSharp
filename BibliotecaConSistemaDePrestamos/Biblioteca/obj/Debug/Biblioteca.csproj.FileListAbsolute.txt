@@ -1,0 +1,7 @@
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\TP - Coleccion de Datos - HACER\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\TP - Coleccion de Datos - HACER\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\TP - Coleccion de Datos - HACER\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\TP - Coleccion de Datos - HACER\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\TP - Coleccion de Datos - HACER\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\TP - Coleccion de Datos - HACER\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+D:\Tecnicatura IT\7. Desarrollo de Sistemas Orientado a Objetos\TP - Coleccion de Datos - HACER\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
